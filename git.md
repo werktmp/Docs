@@ -5,8 +5,8 @@
 
 ## Cource cheatsheed
 
-  | Git commands                 | Function
-  | :--------------------------- | :--------
+  | Git commands                 | Function |
+  | :--------------------------- | :-------- |
   | **Try Git** ||
   | `git init` | Make project
   | `git status` | Status
