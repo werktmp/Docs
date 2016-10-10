@@ -160,9 +160,7 @@
   | |  |
   | `git branch -d release_branch_1.0` | remove local |
   | `git push origin --delete release_branch_1.0` | remove remote |
-  | `` |  |
-  | `` |  |
-  | `` |  |
+
 
 
 ## rebase
